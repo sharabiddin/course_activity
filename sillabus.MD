@@ -248,7 +248,7 @@ Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi q
 10. ElevatedButton
 11. AppBar
 
-### 2-ci Həftənin widgetləri
+## 2-ci Həftənin widgetləri
 
 1. Align
 2. AcpectRatio
@@ -260,7 +260,7 @@ Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi q
 8. SizedBox
 9. Transform
 
-### 3-cü Həftənin widgetləri
+## 3-cü Həftənin widgetləri
 
 1. Form
 2. FormField
@@ -271,7 +271,7 @@ Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi q
 7. Date & Time Pickers
 8. TextField
 
-### 4-cü Həftənin widgetləri
+## 4-cü Həftənin widgetləri
 
 1. MediaQuery
 2. BottomNavigationBar
@@ -283,7 +283,7 @@ Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi q
 8. PopupMenuButton
 9. Slider
 
-### 5-ci Həftənin widgetləri
+## 5-ci Həftənin widgetləri
 
 1. Switch
 2. Radio
@@ -293,7 +293,7 @@ Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi q
 6. SimpleDialog
 7. SnackBar
 
-### 6-cı Həftənin widgetləri
+## 6-cı Həftənin widgetləri
 
 1. Card
 2. Chip
@@ -303,7 +303,7 @@ Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi q
 6. LinearProgressIndicator
 7. Tooltip
 
-### 7-ci Həftənin widgetləri
+## 7-ci Həftənin widgetləri
 
 1. Divider
 2. ListTile
@@ -313,7 +313,7 @@ Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi q
 6. ClipRect
 7. RotatedBox
 
-### 8-ci Həftənin widgetləri
+## 8-ci Həftənin widgetləri
 
 1. AnimatedAlign
 2. AnimatedBuilder
@@ -325,7 +325,7 @@ Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi q
 8. FadeTransition
 9. Hero
 
-### 21. Platforma özəl widget və dialoglar
+## 21. Platforma özəl widget və dialoglar
 
 1. Dialoglara giriş
 2. Dialoqun yaradılması və göstərilməsi
@@ -335,21 +335,21 @@ Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi q
 6. Çıxış et dialoqunun yaradılması
 7. Android və iOS dialoq fərqlilikləri
 
-### 22. Lokal Databaselərə-ə giriş
+## 22. Lokal Databaselərə-ə giriş
 
 1. Niyə lokal database vacibdir?
 2. sqflite paketi ilə tanışlıq
 3. SharedPreferences ilə tanışlıq
 4. Model və köməkçi siniflərin hazırlanması
 
-### 23. Vaxt qazandıran vərdişlər
+## 23. Vaxt qazandıran vərdişlər
 
 1. Kodların təkrar istifadəsi
 2. Paketlərdən istifadə
 3. Komentlərdən miqdarında istifadə
 4. Maksimum parçalama
 
-### 24. Paketlər
+## 24. Paketlər
 
 1. url_launcher
 2. just_audio
@@ -364,31 +364,31 @@ Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi q
 11. camera
 12. flutter_screenutil
 
-### 25. Ölçülərin bütün telefon və planşetlərdə qorunması
+## 25. Ölçülərin bütün telefon və planşetlərdə qorunması
 
 1. Giriş
 2. MediaQuery ilə tanışlıq
 3. flutter_screenutil paketinin inteqrasiyası
 4. Cihaza xüsusi olan dizaynlar
 
-### 26. Hava haqqında məlumat proqramının yaradılması
+## 26. Hava haqqında məlumat proqramının yaradılması
 
 1. Ümumi konsepsiya
 2. İnternetlə əlaqə
 3. Atomarlığın qorunması və qorunmadıqda qarşılaşdığımız spagetti kod ferqi
 
-### 27. Qiymət hesablama qroqramı
+## 27. Qiymət hesablama qroqramı
 
 1. Ümumi konsepsiya
 2. Riyazi hesablamaların olduğu model sinifin yaradılması
 3. Uyğun widgetlərin yaradılması
 
-### 28. Sensorlardan məlumat almaq
+## 28. Sensorlardan məlumat almaq
 
 1. sensors və bənzəri paketlərin istifadəsi
 2. Real tətbiqləri
 
-### 29. Global databazalar tanışlıq
+## 29. Global databazalar tanışlıq
 
 1. Firebase nədir
 2. Realtime Database
@@ -397,7 +397,7 @@ Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi q
 5. NoSql və Sql fərqləri
 6. İlk proyektin yaradılması və inteqrasiyası
 
-### 30. Firebase- Qabaqcıl
+## 30. Firebase- Qabaqcıl
 
 1. Proqrama email və ya telefon nömrəsi ilə girişin təmin edilməsi
 2. Bazanın modellənməsi
@@ -405,39 +405,39 @@ Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi q
 4. Firebase Storage ilə tanışlıq
 5. Firebase Functions nədir?
 
-### 31. Firebase ilə ilk qlobal proqramı yaradaq
+## 31. Firebase ilə ilk qlobal proqramı yaradaq
 
 1. Çadırılma şirkəti üçün proqram təminatına giriş
 2. Funksionallığın müzakirəsi
 3. Proqramın qurulması
 4. Yeniliklərin əlavəsi
 
-### 31. State management nədir
+## 31. State management nədir
 
 1. Giriş
 2. SetState- nin mənfi xüsusiyyətləri
 3. Yeni state dəyişəcək mexanizmlər
 4. Blok arxitekturasına giriş
 
-### 32. Bloc pattern- State management
+## 32. Bloc pattern- State management
 
 1. Giriş
 2. Uyğun paket və Android Studio extension-un yüklənməsi
 3. İlk yüksək performanslı sadə proqramın yaradılması
 
-### 32. Əvvəl etdiyimiz proqramların Bloc pattern ilə birləşdirilməsi
+## 32. Əvvəl etdiyimiz proqramların Bloc pattern ilə birləşdirilməsi
 
 1. Təkrar
 2. Təkrar
 
-### 32. Flutter ilə Web
+## 32. Flutter ilə Web
 
 1. Giriş
 2. Mobil proqram və website üçün mümkün hallar
 3. İlk websaytın hazırlanması
 4. Flutter web-i nə üçün istifadə edə bilərik
 
-### 33. Pub Dev üzərində paketlərimi yaradaq.
+## 33. Pub Dev üzərində paketlərimi yaradaq.
 
 1. Paketin yaradılması
 2. Haqqında məlumat yerləşdirmək
