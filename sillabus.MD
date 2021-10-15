@@ -1,4 +1,4 @@
-Sillabus:
+###Sillabus###
 
 
 ## 1. Giriş
@@ -82,10 +82,10 @@ Sillabus:
 11. `null` dəyər
 12. Map-lar dəyərləri üzərində gəzmə
 13. **Exercise**: Pizza Ordering
-14. Nested Collections
+14. İç-içə Kolleksiyalar
 15. **Praktiki iş**: Restarant reytinqləri
-19. **Exercise**: Alış veriş listi
-20. Kolleksiyaların kopyalanması
+16. **Exercise**: Alış veriş listi
+27. Kolleksiyaların kopyalanması
 
 
 ## 7. Layihə: Dart-da məlumatlar üzərində işləmə
@@ -139,10 +139,10 @@ Sillabus:
 8. “Type safety”
 9. `const` qurucuları
 10. Adlandırılmış qurucular
-12. Alıcılar and Ayarlayıcılar
-13. **Praktiki iş**: Restarant reytinq misalı siniflərlə
-14. Statik methodlar və dəyişənlər
-15. Gizli dəyişənlər və methodlar
+11. Alıcılar and Ayarlayıcılar
+12. **Praktiki iş**: Restarant reytinq misalı siniflərlə
+13. Statik methodlar və dəyişənlər
+14. Gizli dəyişənlər və methodlar
 
 ## 12. Siniflər: Qabaqcıl
 
@@ -156,18 +156,18 @@ Sillabus:
 8. Interfaces və `implements` and `extends` arasındakı fərq
 9. `Object` sinfi
 10. `toString()` metodu
-13. “Equatable” paketi
-14. JSON nədir
-16. Factory qurucular və JSON məlumatın oxunması
-17. **Praktiki iş**: JSON Serialization
-18. `copyWith` metodunun mahiyyəti
-19. Cascade operatoru
+11. “Equatable” paketi
+12. JSON nədir
+13. Factory qurucular və JSON məlumatın oxunması
+14. **Praktiki iş**: JSON Serialization
+15. `copyWith` metodunun mahiyyəti
+16. Cascade operatoru
 
 ## 13. Layihə: Sadə e -ticarət
 
 1. Giriş
 2. Məhsul, Səbət, və.s siniflərinin yaradılması
-4. Səbətə əlavə etmə funksionallağının əlavəsi
+3. Səbətə əlavə etmə funksionallağının əlavəsi
 
 ## 14. Mixins & Extensions
 
@@ -179,8 +179,8 @@ Sillabus:
 ## 15. Xəta və İstisanayi halların nəzarət alınması
 
 1. Giriş
-4. İstisnalar: `throw`, `try`, `catch`, `finally` və.s
-5. **Praktiki iş**: Email yoxlama
+2. İstisnalar: `throw`, `try`, `catch`, `finally` və.s
+3. **Praktiki iş**: Email yoxlama
 
 ## 16. Asinxron Proqramlama
 
@@ -202,5 +202,5 @@ Sillabus:
 2. REST API əsasları
 4. http paketi giriş
 5. qayıdış status kodunun və məlumatın oxunması
-7. JSON məlumatın siniflərə görə ayrılması
-8. Xətaların nəzərə alınması
+6. JSON məlumatın siniflərə görə ayrılması
+7. Xətaların nəzərə alınması
