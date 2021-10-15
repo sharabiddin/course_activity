@@ -1,4 +1,7 @@
-### Sillabus
+###### Sillabus
+
+Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi qrupun aktivliyinə görə 7-12 ay çəkə bilər. Dərs müddətində
+5 sadə 2 orta və 1 yüksək səviyyəli proqram təminatı hazırlanacaq. Və hər dərs üçün 1-6 arası ev tapşırığı veriləcək.
 
 ## 1. Giriş
 
@@ -81,10 +84,10 @@
 10. `as` operatoru
 11. `null` dəyər
 12. Map-lar dəyərləri üzərində gəzmə
-13. **Exercise**: Pizza Ordering
+13. **Praktiki iş**: Pizza Ordering
 14. İç-içə Kolleksiyalar
 15. **Praktiki iş**: Restarant reytinqləri
-16. **Exercise**: Alış veriş listi
+16. **Praktiki iş**: Alış veriş listi
 17. Kolleksiyaların kopyalanması
 
 ## 7. Layihə: Dart-da məlumatlar üzərində işləmə
@@ -202,15 +205,14 @@
 5. JSON məlumatın siniflərə görə ayrılması
 6. Xətaların nəzərə alınması
 
-///////
-
 ## 18. Flutter və digər lazımlı proqram təminatlarının yüklənməsi
 
+1. Flutter-a giriş
 1. Android studio-nun qurulması
-2. Android Emulatorun qurulması
-3. Paketlər üçün versiyaların önəmi
+1. Android Emulatorun qurulması
+1. Paketlər üçün versiyaların önəmi
 
-## 19. Flutter-a giriş
+## 19. Flutter-a giriş- Qabaqcıl
 
 1. Android studion ilk proqramın yaradılması
 2. Qovluqlaşdırmanın üstünlükləri
