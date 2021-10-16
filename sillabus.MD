@@ -300,8 +300,9 @@ Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi q
 3. CircularProgressIndicator
 4. DataTable
 5. GridView
-6. LinearProgressIndicator
-7. Tooltip
+6. ListView
+7. LinearProgressIndicator
+8. Tooltip
 
 ## 7-ci Həftənin widgetləri
 
@@ -334,6 +335,7 @@ Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi q
 5. Yenidən istifadə edilə bilən showAlertDialog metodunun yaradılması
 6. Çıxış et dialoqunun yaradılması
 7. Android və iOS dialoq fərqlilikləri
+8. **Praktiki iş** Gündəlik bonus dialoqu
 
 ## 22. Lokal Databaselərə-ə giriş
 
@@ -371,24 +373,30 @@ Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi q
 3. flutter_screenutil paketinin inteqrasiyası
 4. Cihaza xüsusi olan dizaynlar
 
-## 26. Hava haqqında məlumat proqramının yaradılması
+## 26. Səhifələr arası keçiş
+
+1. Giriş
+2. Navigator sinfi ilə tanışlıq
+3. Səhifələr arası məlumat keçişi
+
+## 27. Hava haqqında məlumat proqramının yaradılması
 
 1. Ümumi konsepsiya
 2. İnternetlə əlaqə
-3. Atomarlığın qorunması və qorunmadıqda qarşılaşdığımız spagetti kod ferqi
+3. Atomarlığın qorunması və qorunmadıqda qarşılaşdığımız _spagetti kod_ ferqi
 
-## 27. Qiymət hesablama qroqramı
+## 28. Qiymət hesablama qroqramı
 
 1. Ümumi konsepsiya
 2. Riyazi hesablamaların olduğu model sinifin yaradılması
 3. Uyğun widgetlərin yaradılması
 
-## 28. Sensorlardan məlumat almaq
+## 29. Sensorlardan məlumat almaq
 
 1. sensors və bənzəri paketlərin istifadəsi
 2. Real tətbiqləri
 
-## 29. Global databazalar tanışlıq
+## 30. Global databazalar tanışlıq
 
 1. Firebase nədir
 2. Realtime Database
@@ -397,7 +405,7 @@ Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi q
 5. NoSql və Sql fərqləri
 6. İlk proyektin yaradılması və inteqrasiyası
 
-## 30. Firebase- Qabaqcıl
+## 31. Firebase- Qabaqcıl
 
 1. Proqrama email və ya telefon nömrəsi ilə girişin təmin edilməsi
 2. Bazanın modellənməsi
@@ -405,39 +413,45 @@ Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi q
 4. Firebase Storage ilə tanışlıq
 5. Firebase Functions nədir?
 
-## 31. Firebase ilə ilk qlobal proqramı yaradaq
+## 32. Firebase ilə ilk qlobal proqramı yaradaq
 
 1. Çadırılma şirkəti üçün proqram təminatına giriş
 2. Funksionallığın müzakirəsi
 3. Proqramın qurulması
 4. Yeniliklərin əlavəsi
 
-## 31. State management nədir
+## 33. State management nədir
 
 1. Giriş
 2. SetState- nin mənfi xüsusiyyətləri
 3. Yeni state dəyişəcək mexanizmlər
 4. Blok arxitekturasına giriş
 
-## 32. Bloc pattern- State management
+## 34. Bloc pattern- State management
 
 1. Giriş
 2. Uyğun paket və Android Studio extension-un yüklənməsi
 3. İlk yüksək performanslı sadə proqramın yaradılması
 
-## 32. Əvvəl etdiyimiz proqramların Bloc pattern ilə birləşdirilməsi
+## 35. Əvvəl etdiyimiz proqramların Bloc pattern ilə birləşdirilməsi
 
 1. Təkrar
 2. Təkrar
 
-## 32. Flutter ilə Web
+## 36. Proqramın Play Store üzərindən yayımlanması
+
+1. İkon və açılış pəncərəsinin yaradılması
+2. .aab .apk fərqlilikləri
+3. Hazırlanma və yüklənmə prosesi
+
+## 37. Flutter ilə Web
 
 1. Giriş
 2. Mobil proqram və website üçün mümkün hallar
 3. İlk websaytın hazırlanması
 4. Flutter web-i nə üçün istifadə edə bilərik
 
-## 33. Pub Dev üzərində paketlərimi yaradaq.
+## 38. Pub Dev üzərində paketlərimizi yaradaq.
 
 1. Paketin yaradılması
 2. Haqqında məlumat yerləşdirmək
