@@ -1,4 +1,4 @@
-## Sillabus
+## Syllabus
 
 Dərs müddətində keçiləcək mövzu və işləniləcək tapşırıqlarla aşağıdan tam şəkildə məlumat əldə edə bilərsiniz.
 
