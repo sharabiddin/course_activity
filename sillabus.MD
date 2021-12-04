@@ -1,7 +1,6 @@
 ## Sillabus
 
-Sillabsu 10(on) ay üçün nəzərdə tutulub, Dərsin gec və ya tez bitməsi qrupun aktivliyinə görə 7-12 ay çəkə bilər. Dərs müddətində
-5 sadə, 2 orta və 1 yüksək səviyyəli proqram təminatı hazırlanacaq. Və hər dərs üçün 1-6 arası ev tapşırığı veriləcək.
+Dərs müddətində keçiləcək mövzu və işləniləcək tapşırıqlarla aşağıdan tam şəkildə məlumat əldə edə bilərsiniz.
 
 ## 1. Giriş
 
