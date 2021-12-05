@@ -8,7 +8,7 @@ Dərs müddətində keçiləcək mövzu və işləniləcək tapşırıqlarla aş
 
 1. Android Proqramlaşdırmaya giriş
 2. Proqramın sturukturu
-3. App iventor hesabın yaradılması və ilk proqramın yazılması
+3. App inventor hesabın yaradılması və ilk proqramın yazılması
 
 ## 2. Bloklar
 
