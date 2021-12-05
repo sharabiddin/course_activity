@@ -1,5 +1,7 @@
 ## Syllabus
 
+*10-cu sinif və üzəri*
+
 Dərs müddətində keçiləcək mövzu və işləniləcək tapşırıqlarla aşağıdan tam şəkildə məlumat əldə edə bilərsiniz.
 
 ## 1. Giriş
